@@ -1,4 +1,4 @@
-# Functional-Decomposition
+# OpenMP-Functional-Decomposition
 Introduction
 
 This project will use parallelism, not for speeding data-computation, but for programming-convenience. You will create a month-by-month simulation in which each agent of the simulation will execute in its own thread where it just has to look at the state of the world around it and react to it.
